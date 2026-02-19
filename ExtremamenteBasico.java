@@ -1,5 +1,3 @@
-// Para o Beecrowd use a clase Main
-// public class Main
 // Beecrowd | 1001 - Extremamente Básico
 
 import java.util.Scanner;
