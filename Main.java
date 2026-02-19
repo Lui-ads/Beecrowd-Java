@@ -1,13 +1,6 @@
-// Beecrowd | 1001 - Extremamente Básico 
-import java.util.Scanner;
-
+// Beecrowd | 1000 - Hello World!
 public class Main {
-    public static void main (String [] args){
-        Scanner leitura = new Scanner(System.in);
-        int a = leitura.nextInt();
-        int b = leitura.nextInt();
-        int x = a + b;
-        System.out.printf("X = %d\n", x);
-        leitura.close();
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
     }
 }
