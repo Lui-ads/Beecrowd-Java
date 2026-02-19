@@ -1,7 +1,12 @@
+// Para o Beecrowd use a clase Main
+// public class Main
 // Beecrowd | 1001 - Extremamente Básico
+
 import java.util.Scanner;
 
-public class Main {
+// Para o Beecrowd use a clase Main
+// public class Main
+public class ExtremamenteBasico {
     public static void main (String [] args){
         Scanner leitura = new Scanner(System.in);
         int a = leitura.nextInt();
