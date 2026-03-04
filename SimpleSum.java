@@ -2,6 +2,8 @@
 import java.io.IOException;
 import java.util.Scanner;
 
+// Para o Beecrowd use a clase Main
+// public class Main
 public class SimpleSum {
     public static void main(String[] args) throws IOException {
         Scanner entrada = new Scanner(System.in);
