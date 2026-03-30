@@ -15,6 +15,8 @@ J(n,k)=(J(n−1,k)+k) mod n - x % n
 Caso base
     J(1,k)=0
 
+Para o Beecrowd use a clase Main
+public class Main
 */
 import java.io.IOException;
 import java.util.Scanner;
